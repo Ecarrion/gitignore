@@ -1,6 +1,4 @@
-.*
-!.gitignore
 *~
 
-# KDE
+# KDE directory preferences
 .directory
